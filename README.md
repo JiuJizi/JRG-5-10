@@ -9,12 +9,12 @@ demo.sh  是bash脚本  ,  demo.js  是nodejs脚本
  ├── index.html
  └── js
      └── main.js
-4.index.html 的内容为
- <!DOCTYPE>
- <title>Hello</title>
- <h1>Hi</h1>
-5.css/style.css 的内容为
- h1{color: red;}
-6.js/main.js 的内容为
- var string = "Hello World"
- alert(string)
+4. index.html 的内容为
+ #<!DOCTYPE>
+ #<title>Hello</title>
+ #<h1>Hi</h1>
+5. css/style.css 的内容为
+ #h1{color: red;}
+6. js/main.js 的内容为
+ #var string = "Hello World"
+ #alert(string)
